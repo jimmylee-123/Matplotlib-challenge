@@ -58,4 +58,4 @@ Data Analytics Bootcamp - Challenge Module 5: Apply what you've learned about Ma
 
 ## Acknowledgments
 
-* [Reserved]
+* For this challenge module, I reviewed the Module 5 class activities extensively and also had guidance from ChatGPT.
